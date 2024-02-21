@@ -1,0 +1,207 @@
+{
+    "os": "Linux-6.1.49-1-MANJARO-x86_64-with-glibc2.38",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-02-20T22:19:39.530245",
+    "startedAt": "2024-02-20T22:19:39.234444",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": "Python RAQA Example.ipynb",
+    "git": {
+        "remote": "git@github.com:AI-Maker-Space/AI-Engineering.git",
+        "commit": "22482f0d56e3b3cfb08acf89ed439a951c883324"
+    },
+    "email": "c.s.alexiuk@gmail.com",
+    "root": "/home/chris/Code/AIMS/AI-Engineering",
+    "host": "Neptune",
+    "username": "chris",
+    "executable": "/home/chris/anaconda3/envs/aims-visibility/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3956.6620937499997,
+        "min": 2200.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4305.411,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3539.062,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3543.897,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3544.803,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3905.811,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4147.138,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3537.894,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3537.453,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3883.674,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3811.842,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3968.31,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4389.029,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4157.144,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4391.988,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4264.559,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3944.344,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3915.566,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3547.303,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3546.899,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3546.113,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4124.506,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4107.255,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3544.282,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3544.712,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4183.651,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3846.546,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4001.275,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4384.156,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3960.727,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4400.885,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3523.225,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 4183.901,
+            "min": 2200.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1832.4089889526367,
+            "used": 600.9986610412598
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 125.61982727050781
+    }
+}
