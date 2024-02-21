@@ -13,35 +13,11 @@
 2. `pip install jupyter` so you can run the notebook
 3. `pip install -r requirements.txt` to install all the requirements
 
-## How AIM Does Assignments
-
-In each assignment from this point forward you'll notice there are two versions of the assignments.
-
-### Fine-tuned for User Assignment:
-
-These assignments are ready to be run "off the shelf", similar to how you'd select a model for an application in the wild. 
-
-They don't require you to write any code, instead focusing on conceptual questions and "prompt engineering" tasks where applicable. 
-
-### Base Model:
-
-These assignments require an extra lift to get going. 
-
-You'll might need to write code, make improvements/additions, and consult documentation/source repositories in order to complete the assignment.
-
 # Build 🏗️
 
 Run the notebook and observe the WandB dashboard.
 
 # Ship 🚢
-
-Fine-tuned Assignment:
-
-- Make a simple diagram of the RAQA process
-- Run the notebook
-- Record a Loom walking through the notebook, the questions in the notebook, and a WandB trace.
-
-Base Model: 
 
 - Add one of the following "extras" to the RAQA pipeline:
      - Allow it to work with PDF files
