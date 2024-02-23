@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-## <h1 align="center" id="heading">🔍Your First Retrieval Augmented Generation QA Application!</h1>
+## <h1 align="center" id="heading">Agentic RAG with OpenAI Assistants and Tools!</h1>
 
 ### Steps to Run:
 
