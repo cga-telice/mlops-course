@@ -36,7 +36,27 @@ You'll repeat the same process for your embeddings model!
 
 ### Build Task 2: Create RAG Pipeline with LangChain & LangSmith
 
->> TO BE RELEASED
+We'll work through this week's notebook after setting up our endpoints!
+
+The notebook will be broken into the following parts:
+
+- 🤝 Breakout Room #1:
+  1. Set up Hugging Face Inference Endpoints
+  2. Install required libraries
+  3. Set Environment Variables
+  4. Testing our Hugging Face Inference Endpoint
+  5. Creating LangChain components powered by the endpoints
+  6. Retrieving data from Arxiv
+  7. Creating a simple RAG pipeline with [LangChain v0.1.0](https://blog.langchain.dev/langchain-v0-1-0/)
+  
+- 🤝 Breakout Room #2:
+  1. Set-up LangSmith
+  2. Creating a LangSmith dataset
+  3. Creating a custom evaluator
+  4. Initializing our evaluator config
+  5. Evaluating our RAG pipeline
+ 
+The Colab link is provided [here](https://colab.research.google.com/drive/1CVHGdSDFhfeyGl20ZK-f52lst3xqKVCf?usp=sharing)
 
 ### Terminating Your Resources
 
