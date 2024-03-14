@@ -1,4 +1,4 @@
-# Week 3: Tuesday Session
+# Week 5: Thursday
 
 In today's assignment, we'll be creating an Open Source LLM-powered LangChain RAG Application.
 
