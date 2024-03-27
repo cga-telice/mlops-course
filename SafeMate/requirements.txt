@@ -1,0 +1,11 @@
+chainlit==0.7.700
+cohere==4.37
+openai
+tiktoken==0.5.2
+python-dotenv==1.0.0
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchainhub
+faiss_cpu
